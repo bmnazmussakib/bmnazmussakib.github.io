@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    height:100%;
+  }
+  body{
+    width:100%;
+  }
+  .img-container{
+   background-image: url("https://cdn.pixabay.com/photo/2016/08/31/06/58/fairyland-canyon-1632749_960_720.jpg");
+    height: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+  
+  .txt-container{
+    position: absolute;
+    top: 150px;
+    line-height: 60px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    color: white;
+  }
+
+  h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+  }
+
+  h2{
+    font-family: 'Italianno', cursive;
+    font-weight: normal;
+    font-size: 40px;
+    margin-top: 10px;
+  }
+
+  
+  .btn{
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 30px;
+    background-color: transparent;
+    border: 1px solid white;
+  }
+
+  .btn:hover,.btn:active{
+    background-color: white;
+    color: black;
+    border: transparent;
+    
+  }
+
+
+
+ 
+
+ 
